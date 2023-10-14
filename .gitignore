@@ -1,2 +1,5 @@
-/target
-.ideas
+.DS_Store
+.idea
+*.log
+tmp/
+.torrent
